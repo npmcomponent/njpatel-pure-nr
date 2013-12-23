@@ -1,5 +1,5 @@
-pure
-====
+pure-nr
+======= 
 
 A [Pure CSS](http://purecss.io) component.io [component](https://github.com/component/component).
 
