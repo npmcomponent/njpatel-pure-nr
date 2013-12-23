@@ -1,7 +1,7 @@
 pure
 ====
 
-A [Pure CSS](http://purecss.io) component.io [component](component/component).
+A [Pure CSS](http://purecss.io) component.io [component](https://github.com/component/component).
 
 This is the complete Pure CSS, with all the modules and build for non-responsive layouts.
 
