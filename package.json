@@ -1,0 +1,15 @@
+{
+  "name": "njpatel-pure-nr",
+  "description": "A set of small, non-responsive CSS modules that you can use in every web project. http://purecss.io/",
+  "version": "3.0.0",
+  "keywords": [
+    "pure",
+    "css",
+    "yui"
+  ],
+  "styles": [
+    "pure-nr.css"
+  ],
+  "dependencies": {},
+  "license": "BSD"
+}
